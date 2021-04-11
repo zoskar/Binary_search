@@ -5,3 +5,4 @@ class Solution:
             if len(str(number)) % 2 == 1:
                 res += 1
         return res
+
