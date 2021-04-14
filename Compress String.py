@@ -7,5 +7,3 @@ class Solution:
                 res += char
             prev = char
         return res
-
-
