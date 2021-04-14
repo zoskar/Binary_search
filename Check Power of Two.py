@@ -7,5 +7,3 @@ class Solution:
             if 2 ** res == n:
                 return True
             res += 1
-
-
