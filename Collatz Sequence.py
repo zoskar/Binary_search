@@ -9,3 +9,4 @@ class Solution:
             result += 1
 
         return result
+d
