@@ -12,9 +12,3 @@ def solve(n):
 
 
 
-solve(11)
-
-
-
-
-
